@@ -7,15 +7,9 @@
 
 ## 🌟 Statistics about me
 <table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/?username=SintactMax&text_color=cad1d7&show_icons=true&bg_color=0d1117&hide_border=true&count_private=true" />
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/top-langs/?username=SintactMax&layout=compact&show_icons=true&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true" />
-    </td>
-  </tr>
+  ![SintactMax's Stats](https://github-readme-stats.vercel.app/api?username=SintactMax&theme=dark&show_icons=true&hide_border=true&count_private=true)
+  ![SintactMax's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SintactMax&theme=dark&hide_border=true)
+  ![SintactMax's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SintactMax&theme=dark&show_icons=true&hide_border=true&layout=compact)
 </table>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=SintactMax&icon=2&color=12)](https://visitcount.itsvg.in)
