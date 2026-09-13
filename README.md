@@ -64,19 +64,97 @@ I’m a self-taught developer who likes turning ideas into clean, useful softwar
 
 ---
 
-## `> projects --featured`
+## `> projects --showcase`
 
 <div align="center">
 
-<a href="https://github.com/SintactMax/Lilia">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SintactMax&repo=Lilia&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" alt="Lilia repository" />
-</a>
-<a href="https://github.com/SintactMax/gluautils">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SintactMax&repo=gluautils&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" alt="gluautils repository" />
-</a>
+### `// SELECTED BUILDS`
 
-<a href="https://github.com/SintactMax/portfolio">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SintactMax&repo=portfolio&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" alt="Portfolio repository" />
+<sub>Developer tooling, web experiences and game/server systems.</sub>
+
+<br/><br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">⚡ GLua Utils</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/DEV_TOOL-VS%20CODE-7C3AED?style=flat-square" alt="Dev tool" />
+<img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/GLua-111827?style=flat-square&logo=lua&logoColor=7C3AED" alt="GLua" />
+</div>
+
+<br/>
+
+A quality-of-life **VS Code extension for GLua developers**. It provides ready-to-use snippets for common Garry's Mod structures such as SWEPs and entities, reducing repetitive setup work.
+
+**Built for:** faster GLua workflows · snippet-driven development · Garry's Mod tooling
+
+<div align="center">
+<a href="https://github.com/SintactMax/gluautils"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View repository" /></a>
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">◈ Portfolio</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/WEB_EXPERIENCE-PORTFOLIO-7C3AED?style=flat-square" alt="Web experience" />
+<img src="https://img.shields.io/badge/HTML-111827?style=flat-square&logo=html5" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-111827?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS" />
+<img src="https://img.shields.io/badge/JS-111827?style=flat-square&logo=javascript" alt="JavaScript" />
+</div>
+
+<br/>
+
+My personal digital home: a custom-built portfolio with **editorial dark design, interactive 3D details, responsive layouts, service packages and selected work** — without a heavy framework.
+
+**Built for:** identity · motion · performance · client presentation
+
+<div align="center">
+<a href="https://github.com/SintactMax/portfolio"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View repository" /></a>
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### `// FRAMEWORK WORK`
+
+<table>
+<tr>
+<td valign="top">
+
+<h3 align="center">◉ Lilia Framework</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/GARRY'S_MOD-FRAMEWORK-7C3AED?style=flat-square" alt="Garry's Mod framework" />
+<img src="https://img.shields.io/badge/Lua-111827?style=flat-square&logo=lua&logoColor=7C3AED" alt="Lua" />
+<img src="https://img.shields.io/badge/FORK%20%2F%20FRAMEWORK%20WORK-111827?style=flat-square&logo=git" alt="Fork / framework work" />
+</div>
+
+<br/>
+
+A personal fork of the **Lilia Garry's Mod framework**, used for framework-level experimentation and Lua/game-server development. Featured separately from original projects to keep the showcase accurate.
+
+<div align="center">
+<a href="https://github.com/SintactMax/Lilia"><img src="https://img.shields.io/badge/EXPLORE_FORK-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore fork" /></a>
+<a href="https://liliaframework.github.io/"><img src="https://img.shields.io/badge/LILIA_DOCS-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Lilia docs" /></a>
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://github.com/SintactMax?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-09090B?style=for-the-badge&logo=github&logoColor=A78BFA" alt="Explore all repositories" />
 </a>
 
 </div>
